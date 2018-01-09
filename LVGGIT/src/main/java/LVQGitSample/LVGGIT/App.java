@@ -1,7 +1,7 @@
 package LVQGitSample.LVGGIT;
 
 /**
- * Hello world!
+ * Hello world!a
  *
  */
 public class App 
